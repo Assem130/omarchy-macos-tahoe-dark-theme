@@ -1,0 +1,36 @@
+# macOS 26 "Tahoe" — Dark
+# Palette based on Apple's macOS 26 system colors (dark appearance).
+mode = "dark"
+
+accent = "#269cff"
+selection = "#3f638b"
+muted = "#9b9ba1"
+
+background = "#1e1e1e"
+dark_background = "#161616"
+darker_background = "#0f0f0f"
+lighter_background = "#2c2c2e"
+
+foreground = "#f5f5f7"
+dark_foreground = "#b5b5bb"
+light_foreground = "#ebebf5"
+bright_foreground = "#ffffff"
+
+red = "#ff5b60"
+yellow = "#ffd600"
+orange = "#ff9230"
+green = "#30d158"
+cyan = "#3cd3fe"
+blue = "#269cff"
+magenta = "#ea50ff"
+brown = "#b78a66"
+
+bright_red = "#ff5575"
+bright_yellow = "#ffe14d"
+bright_green = "#00dac3"
+bright_cyan = "#00d2e0"
+bright_blue = "#8d99ff"
+bright_magenta = "#e868ff"
+
+hyprland_active_border = "rgba(0091ffcc)"
+hyprland_inactive_border = "rgba(ffffff1f)"
